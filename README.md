@@ -15,8 +15,8 @@ Tools Used:  MySQL Workbench
 4.	Product category analysis.
 
  Insights :
-•	Technology category and specific products like "Boxed Truffles" had the highest revenue.
-•	The APAC region performed well in terms of volume but not always in profit.
-•	Certain teams consistently outperform others across regions.
-•	Seasonal patterns affect monthly sales significantly.
+- Technology category and specific products like "Boxed Truffles" had the highest revenue.
+-	The APAC region performed well in terms of volume but not always in profit.
+-	Certain teams consistently outperform others across regions.
+-	Seasonal patterns affect monthly sales significantly.
 
